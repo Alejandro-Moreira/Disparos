@@ -22,13 +22,13 @@ Este proyecto demuestra la comparación entre programación tradicional (C#) y V
 
 ## Estructura del Repositorio
 
-Disparos/
-│
-├─ Assets/                  # Recursos del juego (sprites, sonidos, prefabs)
-├─ Scripts/                 # Scripts en C# (movimiento del objeto)
-├─ VisualScripting/         # Configuración de nodos para disparos
-├─ Scenes/                  # Escena principal del juego
-└─ README.md                # Explicación 
+- Disparos/
+- │
+- ├─ Assets/                  # Recursos del juego (sprites, sonidos, prefabs)
+- ├─ Scripts/                 # Scripts en C# (movimiento del objeto)
+- ├─ VisualScripting/         # Configuración de nodos para disparos
+- ├─ Scenes/                  # Escena principal del juego
+- └─ README.md                # Explicación 
 
 ## Reflexión: Ventajas y Desventajas
 
@@ -55,6 +55,7 @@ Disparos/
 
 ## Video Explicativo
 
+https://udlaec-my.sharepoint.com/:v:/g/personal/alejandro_moreira_udla_edu_ec/EVtzzai56ExBqYj-ug0-JBEBwWGackf6KUZHGeEWEXf5yw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PsWm70 
 
 
 ## Cómo Ejecutar el Proyecto
